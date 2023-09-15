@@ -89,7 +89,8 @@ const services = [
 const dataportfolio = [
   {
     img: "/webImages/theDUH.png",
-    description: "The DUH a nft's website",
+    description:
+      "THEDUH.COM is a website created by The Fantasy FunDUHmentals, a group of sports enthusiasts who are passionate about fantasy sports.",
     link: "https://www.theduh.com/",
   },
   // {
