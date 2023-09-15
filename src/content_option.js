@@ -18,7 +18,7 @@ const introdata = {
 };
 
 const dataabout = {
-  title: "abit about my self",
+  title: "A bit about my self",
   aboutme:
     "I am Muhammad Bilal, a dynamic professional who thrives at the intersection of creativity and technology. With 2.5 years of hands-on experience in graphic design, I've mastered the art of translating ideas into visually captivating designs that resonate with audiences. My journey further encompasses two years of dedicated immersion in React.js, bolstered by proficiency in Next.js and Remix.js frameworks. What sets me apart is my foray into the realm of blockchain technology, where I've harnessed the power of web 3 to develop and implement smart contracts. My expertise extends to Cardano's blockchain ecosystem, where I've navigated its intricacies to create meaningful applications. In the React.js landscape, I'm not just limited to the basics. I have a strong command of Redux Toolkit for streamlined state management, and I wield TypeScript to ensure robust code quality. My UI creations are a fusion of creativity and structure, employing Styled Components for a dynamic aesthetic. Alongside, I leverage the Material-UI framework for polished and responsive designs. My toolkit extends to HTML5 and CSS, shaping seamless user experiences across devices. I am dedicated to pushing the boundaries of what's possible, delivering solutions that harmonize innovation with usability.",
 };
