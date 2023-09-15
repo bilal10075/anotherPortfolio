@@ -73,6 +73,9 @@ section {
     display: block;
     height: auto !important;
   }
+  .dropDown {
+    display: none;
+  }
 }
 
 .intro_sec .text,
