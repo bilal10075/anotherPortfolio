@@ -121,6 +121,16 @@ const dataportfolio = [
       "A Wallet application designed to buy actual assets and store them for future trades.",
     link: "https://cqrvault.org/",
   },
+  {
+    img: "/webImages/car-market.png",
+    description: "Car Marketplace",
+    link: "https://stg-v2.centrotaller.es/",
+  },
+  {
+    img: "",
+    description: "Tender-fi",
+    link: "#",
+  },
 ];
 
 const contactConfig = {
