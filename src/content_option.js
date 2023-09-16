@@ -88,78 +88,39 @@ const services = [
 
 const dataportfolio = [
   {
+    img: "/webImages/fbCraft.png",
+    description:
+      "Fabricraft Studio was born out of the desire to bring a breath of fresh air to the fashion industry.",
+    link: "http://fabricraftstudio.com/",
+  },
+  {
     img: "/webImages/theDUH.png",
     description:
       "THEDUH.COM is a website created by The Fantasy FunDUHmentals, a group of sports enthusiasts who are passionate about fantasy sports.",
     link: "https://www.theduh.com/",
   },
-  // {
-  //   img: "https://picsum.photos/400/800/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/600/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/300/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/700/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-
-  // {
-  //   img: "https://picsum.photos/400/600/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/300/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/550/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
-  // {
-  //   img: "https://picsum.photos/400/700/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
+  {
+    img: "/webImages/tokenNow.png",
+    description: "A real estate blockchain project",
+    link: "https://stg.tokennow.io/",
+  },
+  {
+    img: "/webImages/acx.png",
+    description: "Trade, Invest, Earn 24/7 With ACX DeFi",
+    link: "https://staging.acxd.io/",
+  },
+  {
+    img: "",
+    description:
+      "A platform who discover, collect, and sell extraordinary NFTs. Visit",
+    link: "http://arm.kryptomind.net/",
+  },
+  {
+    img: "/webImages/cqr.png",
+    description:
+      "A Wallet application designed to buy actual assets and store them for future trades.",
+    link: "https://cqrvault.org/",
+  },
 ];
 
 const contactConfig = {
