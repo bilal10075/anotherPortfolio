@@ -95,3 +95,28 @@ code {
 .color_sec {
   color: var(--secondary-color);
 }
+/*scrollBar*/
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  -webkit-overflow-scrolling: auto !important;
+  background: var(--text-color-3) !important;
+  border-radius: 10px !important;
+}
+
+::-webkit-scrollbar:vertical {
+  width: 5px !important;
+}
+
+::-webkit-scrollbar:horizontal {
+  height: 6px !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--text-color-3) !important;
+  border-radius: 10px !important;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--secondary-color) !important;
+  border-radius: 10px !important;
+}
