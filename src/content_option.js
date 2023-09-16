@@ -96,7 +96,7 @@ const dataportfolio = [
   {
     img: "/webImages/theDUH.png",
     description:
-      "THEDUH.COM is a website created by The Fantasy FunDUHmentals, a group of sports enthusiasts who are passionate about fantasy sports.",
+      "A group of sports enthusiasts who are passionate about fantasy sports.",
     link: "https://www.theduh.com/",
   },
   {
